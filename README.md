@@ -1,4 +1,4 @@
-x-plat-release-
+x-plat-release
 ===============
 
-Test repo fo x-plat-release
+Test repo for x-plat-release
